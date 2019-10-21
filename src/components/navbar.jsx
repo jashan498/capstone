@@ -9,18 +9,11 @@ const Navbar = () => {
             <h2 style={{ color: "white" }}>Multiplayer Chess</h2>
           </a>
         </div>
-        {/* <a href="https://github.com/jashan498/react-chess" className="mr-auto">
-          {" "}
-          <button
-            className="btn btn-sm btn-outline-secondary pull-left mr-auto navButton"
-            type="button"
-          >
-            Code
-          </button>
-        </a> */}
-        {/* <a href="https://github.com/jashan498">
-          <p className="navText nav ml-auto">jashan498</p>
-        </a> */}
+        <a href="https://jashansraw.me/single-player-mode/">
+          <p className="navText nav ml-auto font-weight-bold">
+            Single Player Mode
+          </p>
+        </a>
       </div>
     </nav>
   );
