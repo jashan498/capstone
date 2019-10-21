@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="container-fluid">
         <div className="navbar-header">
           <a href=".">
-            <h2 style={{ color: "white" }}>Multiplayer Chess</h2>
+            <h2 style={{ color: "white" }}>Wizzard's Chess</h2>
           </a>
         </div>
         <a href="https://jashansraw.me/single-player-mode/">
